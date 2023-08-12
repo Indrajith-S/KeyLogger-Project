@@ -1,3 +1,4 @@
 .vscode
 *.json
 /keylog_reports
+*.pickle
