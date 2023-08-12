@@ -1,3 +1,0 @@
-[ENTER]
-hello[LEFT_WINDOWS]chrome[ENTER]
-hello indra verma[ALT][TAB]
