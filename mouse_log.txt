@@ -1,0 +1,17 @@
+2023-08-12 23:50:48,114: Mouse clicked at (747, 1036) with Button.left
+2023-08-12 23:50:48,642: Mouse clicked at (747, 1036) with Button.right
+2023-08-12 23:50:50,106: Mouse clicked at (1101, 623) with Button.left
+2023-08-12 23:50:50,858: Mouse clicked at (1190, 904) with Button.right
+2023-08-12 23:50:52,102: Mouse clicked at (1118, 626) with Button.left
+2023-08-12 23:50:52,637: Mouse clicked at (1118, 626) with Button.right
+2023-08-12 23:50:52,996: Mouse clicked at (1118, 626) with Button.right
+2023-08-12 23:50:53,404: Mouse clicked at (1118, 626) with Button.right
+2023-08-12 23:50:53,763: Mouse clicked at (1118, 626) with Button.right
+2023-08-12 23:50:54,115: Mouse clicked at (1118, 626) with Button.right
+2023-08-12 23:50:54,480: Mouse clicked at (1118, 626) with Button.right
+2023-08-12 23:50:54,832: Mouse clicked at (1118, 626) with Button.right
+2023-08-12 23:50:56,450: Mouse clicked at (1801, 736) with Button.left
+2023-08-12 23:51:01,711: Mouse clicked at (1558, 12) with Button.left
+2023-08-12 23:51:03,040: Mouse clicked at (1594, 21) with Button.left
+2023-08-12 23:51:08,999: Mouse clicked at (905, 107) with Button.left
+2023-08-12 23:51:15,330: Mouse clicked at (1795, 729) with Button.left
